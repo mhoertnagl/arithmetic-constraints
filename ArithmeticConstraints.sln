@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticConstraints", "ArithmeticConstraints\ArithmeticConstraints.csproj", "{09F519FE-F873-46F1-BD5E-0ACD4700C86C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticConstraints.Tests", "ArithmeticConstraints.Tests\ArithmeticConstraints.Tests.csproj", "{F1631F70-48FC-4A69-8E17-E220AE707844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F519FE-F873-46F1-BD5E-0ACD4700C86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F519FE-F873-46F1-BD5E-0ACD4700C86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F519FE-F873-46F1-BD5E-0ACD4700C86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F519FE-F873-46F1-BD5E-0ACD4700C86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1631F70-48FC-4A69-8E17-E220AE707844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1631F70-48FC-4A69-8E17-E220AE707844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1631F70-48FC-4A69-8E17-E220AE707844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1631F70-48FC-4A69-8E17-E220AE707844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894515FC-1F29-4867-A89F-9CB8FD6C74BA}
+	EndGlobalSection
+EndGlobal
